@@ -1,7 +1,8 @@
-<!DOCTYPE html>
-<html > 
-<head> <head>
+	<!DOCTYPE html>
+<head>
+<title>Titre de ma page</title>
+</head>
 <body>
-<meta name ="tittle" content="OFFICIAL WEBSITE ON Nael"
+Bienvenue sur mon site
 </body>
 </html>
